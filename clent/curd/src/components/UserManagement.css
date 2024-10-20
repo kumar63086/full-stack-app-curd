@@ -1,0 +1,10 @@
+/* UserManagement.css */
+
+  
+  .table-dark .ant-table-thead > tr > th {
+    color: #fff; /* White text for header */
+    background-color: #444; 
+  }
+  
+  
+ 
